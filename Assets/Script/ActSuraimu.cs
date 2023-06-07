@@ -2,11 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ActSenshi : MonoBehaviour
+public class ActSuraimu : MonoBehaviour
 {
-    // 攻撃
-    void Attack()
-    {
 
-    }
 }
